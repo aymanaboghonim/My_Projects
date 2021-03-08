@@ -1,0 +1,3 @@
+This is my First Project to demonstrate CV skills and Concepts that I learned.
+I used Keras APIs as a high level interface to build CNN on top of Tensor Flow Framework.
+I run this notebook on Kaggle and Colab platforms to use GPU to accelerate the Fine Tuning of the Pre-trained CNN model. 
